@@ -1,5 +1,3 @@
-hello!!
+Hello!!
 
-this is my other message here
-
-this was added by the github website
+I was stupid to delete this before
